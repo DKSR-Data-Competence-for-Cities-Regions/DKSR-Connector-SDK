@@ -6,7 +6,7 @@
 
     <groupId>de.urbanpulse.connector</groupId>
     <artifactId>Open-Source-Connector-SDK</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
 
     <properties>
         <org-json.version>20230618</org-json.version>
@@ -139,13 +139,7 @@
             <artifactId>netty-codec-http</artifactId>
             <version>${netty.version}</version>
         </dependency>
-        <!--<dependency>
-            <groupId>io.vertx</groupId>
-            <artifactId>vertx-stack-depchain</artifactId>
-            <version>${vertx.version}</version>
-            <type>pom</type>
-            <scope>import</scope>
-        </dependency>-->
+
         <dependency>
             <groupId>io.vertx</groupId>
             <artifactId>vertx-jdbc-client</artifactId>
@@ -246,11 +240,7 @@
         </dependency>
 
 
-    <dependency>
-        <groupId>io.vertx</groupId>
-        <artifactId>vertx-web-client</artifactId>
-        <version>${vertx.version}</version>
-    </dependency>
+
     <dependency>
         <groupId>io.vertx</groupId>
         <artifactId>vertx-circuit-breaker</artifactId>
@@ -275,26 +265,6 @@
     </dependency>
 
 
-    <dependency>
-        <groupId>jakarta.validation</groupId>
-        <artifactId>jakarta.validation-api</artifactId>
-        <version>${jakarta.version}</version>
-    </dependency>
-    <dependency>
-        <groupId>org.hibernate.validator</groupId>
-        <artifactId>hibernate-validator</artifactId>
-        <version>${hibernate.version}</version>
-    </dependency>
-    <dependency>
-        <groupId>org.glassfish</groupId>
-        <artifactId>jakarta.el</artifactId>
-        <version>${glassfish.version}</version>
-    </dependency>
-
-
-
-
-
 
     <dependency>
         <groupId>com.github.ben-manes.caffeine</groupId>
@@ -304,12 +274,7 @@
 
 
     <!-- Test Dependencies -->
-    <dependency>
-        <groupId>junit</groupId>
-        <artifactId>junit</artifactId>
-        <version>${junit.version}</version>
-        <scope>test</scope>
-    </dependency>
+
     <dependency>
         <groupId>org.mockito</groupId>
         <artifactId>mockito-inline</artifactId>
@@ -346,12 +311,7 @@
             <artifactId>jsonschema-generator</artifactId>
             <version>${jsonschema-generator.version}</version>
         </dependency>
-    <!--<dependency>
-      <groupId>de.urbanpulse.connector.open</groupId>
-      <artifactId>connector-sdk-test-util</artifactId>
-      <version>${project.version}</version>
-      <scope>test</scope>
-    </dependency>-->
+
         <dependency>
             <groupId>org.apache.httpcomponents</groupId>
             <artifactId>httpclient</artifactId>
