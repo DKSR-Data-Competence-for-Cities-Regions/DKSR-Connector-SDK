@@ -1,7 +1,7 @@
 # DKSR-Connector-SDK
 Open Source DKSR Connector SDK enables writing Connector Code while using dependencies from Connector SDK libraries to send data to DKSR OUP. The aim of the Connector SDK is to reduce the effort of the connector development by providing an abstraction layer by providing interfaces and libraries for the developers. With the SDK, developers would be able to use the SDK libraries and use them directly, rather than writing their whole implementations. With the Connector SDK, it would be possible to write a huge part of the code as configurations rather than writing individual code for each functionality. The configuration abstracts a lot of code for the developers allowing them to use minimal effort to connect to the DKSR OUP and start sending streaming data through OUP’s interfaces. 
 
-Here different parts of the SDK are described and an overview of how to create SDK based connectors is provided. 
+
 
 The ConnectorSDK heavily depends on the Vert.x technology (http://vertx.io/). Besides the core API, its advised to familiarise with Vert.x unit (http://vertx.io/docs/vertx-unit/java/) for testing instructions. 
 
@@ -14,7 +14,7 @@ https://www.hbz-nrw.de/produkte/open-access/lizenzen/dfsl/german-free-software-l
 
 # Documentation
 
-The documents below describe the main concepts and functionalities of the open source smart city platform 
+The documents below describe the different parts of the SDK and provide an overview of how to create SDK based connectors: 
 
 1. Connector Components
  * [Connector Workflow](https://github.com/DKSR-Data-Competence-for-Cities-Regions/DKSR-Open-UrbanPulse/wiki/Architectural-View-of-the-Platform) 
