@@ -16,7 +16,7 @@ The documents below describe the different parts of the SDK and provide an overv
 
 1. Connector Components
  * [Connector Workflow](https://github.com/DKSR-Data-Competence-for-Cities-Regions/DKSR-Connector-SDK/wiki/Connector-Workflow)
- * [Technologies and Components](https://github.com/DKSR-Data-Competence-for-Cities-Regions/DKSR-Open-UrbanPulse/wiki/Technologies-and-Components)
+ * [Connector Components and its Configuration](https://github.com/DKSR-Data-Competence-for-Cities-Regions/DKSR-Connector-SDK/wiki/Components-of-the-Connector-and-its-Configuration)
 
 2. Build and Usage
  * [Software Components Required](https://github.com/DKSR-Data-Competence-for-Cities-Regions/DKSR-Open-UrbanPulse/wiki/Software-Components-Required)
