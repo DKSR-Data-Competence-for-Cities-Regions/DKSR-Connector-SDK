@@ -15,7 +15,7 @@ https://www.hbz-nrw.de/produkte/open-access/lizenzen/dfsl/german-free-software-l
 The documents below describe the different parts of the SDK and provide an overview of how to create SDK based connectors: 
 
 1. Connector Components
- * [Connector Workflow](https://github.com/DKSR-Data-Competence-for-Cities-Regions/DKSR-Open-UrbanPulse/wiki/Architectural-View-of-the-Platform) 
+ * [Connector Workflow](https://github.com/DKSR-Data-Competence-for-Cities-Regions/DKSR-Connector-SDK/wiki/Connector-Workflow)
  * [Technologies and Components](https://github.com/DKSR-Data-Competence-for-Cities-Regions/DKSR-Open-UrbanPulse/wiki/Technologies-and-Components)
 
 2. Build and Usage
