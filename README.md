@@ -23,6 +23,5 @@ The documents below describe the different parts of the SDK and provide an overv
  * [Building the Code](https://github.com/DKSR-Data-Competence-for-Cities-Regions/DKSR-Open-UrbanPulse/wiki/Building-the-Code)
  * [Deploying and Running the Build](https://github.com/DKSR-Data-Competence-for-Cities-Regions/DKSR-Open-UrbanPulse/wiki/Deploying-and-Running-the-Build)
    
-3. OUP Usage
- * [Through OUPManagementAPI Web Interface and Status Modules](https://github.com/DKSR-Data-Competence-for-Cities-Regions/DKSR-Open-UrbanPulse/wiki/Through-OUP-Management-API-and-Status-Modules)
+3. Connector Usage
  * 
