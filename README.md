@@ -19,7 +19,7 @@ The documents below describe the different parts of the SDK and provide an overv
  * [Connector Components and its Configuration](https://github.com/DKSR-Data-Competence-for-Cities-Regions/DKSR-Connector-SDK/wiki/Components-of-the-Connector-and-its-Configuration)
 
 2. Build and Usage
- * [Software Components Required](https://github.com/DKSR-Data-Competence-for-Cities-Regions/DKSR-Connector-SDK/wiki/Software-Components-Required))
+ * [Software Components Required](https://github.com/DKSR-Data-Competence-for-Cities-Regions/DKSR-Connector-SDK/wiki/Software-Components-Required)
  * [Building the Code](https://github.com/DKSR-Data-Competence-for-Cities-Regions/DKSR-Open-UrbanPulse/wiki/Building-the-Code)
  * [Deploying and Running the Build](https://github.com/DKSR-Data-Competence-for-Cities-Regions/DKSR-Open-UrbanPulse/wiki/Deploying-and-Running-the-Build)
    
