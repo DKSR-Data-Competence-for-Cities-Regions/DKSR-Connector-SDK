@@ -20,6 +20,7 @@ The documents below describe the different parts of the SDK and provide an overv
  * [Details of Connector Verticles](https://github.com/DKSR-Data-Competence-for-Cities-Regions/DKSR-Connector-SDK/wiki/Configuration-Details-of-Connector-Components)
 
 2. Build and Test a Connector
+ * [Software Components Required](https://github.com/DKSR-Data-Competence-for-Cities-Regions/DKSR-Connector-SDK/wiki/Software-Components-Required)
  * [Creating a connector](https://github.com/DKSR-Data-Competence-for-Cities-Regions/DKSR-Connector-SDK/wiki/Creating-a-connector)
 
    
