@@ -21,6 +21,7 @@ The documents below describe the different parts of the SDK and provide an overv
 
 2. Build and Test a Connector
  * [Software Components Required](https://github.com/DKSR-Data-Competence-for-Cities-Regions/DKSR-Connector-SDK/wiki/Software-Components-Required)
+ * [Setting up the project](https://github.com/DKSR-Data-Competence-for-Cities-Regions/DKSR-Connector-SDK/wiki/Setting-up-the-project)
  * [Creating a connector](https://github.com/DKSR-Data-Competence-for-Cities-Regions/DKSR-Connector-SDK/wiki/Creating-a-connector)
 
    
