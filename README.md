@@ -17,7 +17,7 @@ The documents below describe the different parts of the SDK and provide an overv
 1. Connector Components and their usage
  * [Connector Workflow](https://github.com/DKSR-Data-Competence-for-Cities-Regions/DKSR-Connector-SDK/wiki/Connector-Workflow)
  * [Connector Components](https://github.com/DKSR-Data-Competence-for-Cities-Regions/DKSR-Connector-SDK/wiki/Components-of-the-Connector)
- * [Details of Connector Verticles](https://github.com/DKSR-Data-Competence-for-Cities-Regions/DKSR-Connector-SDK/wiki/Configuration-Details-of-Connector-Components)
+ * [Details of Connector Verticles](https://github.com/DKSR-Data-Competence-for-Cities-Regions/DKSR-Connector-SDK/wiki/Details-of-Connector-Verticles)
 
 2. Build and Test a Connector
  * [Software Components Required](https://github.com/DKSR-Data-Competence-for-Cities-Regions/DKSR-Connector-SDK/wiki/Software-Components-Required)
